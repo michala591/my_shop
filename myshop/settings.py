@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 
 CSRF_COOKIE_SECURE = True
 
-ALLOWED_HOSTS = ["my-shop-2024.onrender.com"]
+ALLOWED_HOSTS = ["my-shop-2k5m.onrender.com"]
 CSRF_TRUSTED_ORIGINS = ["https://my-shop-2k5m.onrender.com/"]
 CORS_ALLOWED_ORIGINS = [
     "https://my-shop-2k5m.onrender.com/",
