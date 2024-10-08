@@ -35,7 +35,7 @@ CORS_ALLOWED_ORIGINS = [
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["my-shop-2k5m.onrender.com"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
